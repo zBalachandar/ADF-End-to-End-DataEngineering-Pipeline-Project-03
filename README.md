@@ -37,8 +37,12 @@ what we have covered in this project:
 ### ⚙️ Data Pipeline
  Data pipeline and processing using AZURE DATA FACTORY.
 ![image](https://github.com/zBalachandar/ADF-End-to-End-DataEngineering-Pipeline-Project-03/blob/main/Source/Azure%20DE%20production%20project%20small%20p3.png)
+Result output :
 ![image](https://github.com/zBalachandar/ADF-End-to-End-DataEngineering-Pipeline-Project-03/blob/main/Source/Azure%20DE%20production%20project%20small%20p3.2results.png)
+
 ![image](https://github.com/zBalachandar/ADF-End-to-End-DataEngineering-Pipeline-Project-03/blob/bd023a91c1eaa97af1de14dcfb4f4d95f13e3089/Source/Azure%20DE%20production%20project%20small%20p3.1.png)
+
+End Result:
 ![image](https://github.com/zBalachandar/ADF-End-to-End-DataEngineering-Pipeline-Project-03/blob/main/Source/Azure%20DE%20production%20project%20small%20p3.3%20eresults.png)
 
 
